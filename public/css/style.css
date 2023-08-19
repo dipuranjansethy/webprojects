@@ -278,3 +278,7 @@ footer p{
 .main_header_left figure img{
     filter: drop-shadow(0 0.5rem 1 rem rgba(0,0,0,0.3));
 }
+.carousel-item{
+    mix-blend-mode: multiply;
+    filter: contrast(1);
+}
